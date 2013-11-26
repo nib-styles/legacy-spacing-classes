@@ -1,0 +1,7 @@
+{
+  "name": "spacing-classes",
+  "version": "0.0.1",
+  "styles": [
+    "index.css"
+  ]
+}
